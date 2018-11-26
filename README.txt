@@ -1,1 +1,3 @@
-=========== To jest plik opsowy =============
+=========== To jest plik opisowy =============
+
+dodany wiersz
